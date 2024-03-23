@@ -1,0 +1,2 @@
+vscpkg install curl
+vscpkg install htmlcxx
